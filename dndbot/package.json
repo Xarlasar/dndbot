@@ -1,0 +1,8 @@
+{
+  "name": "dnd-bot",
+  "version": "1.0.0",
+  "description": "Bot for the DND Server",
+  "main": "bot.js",
+  "author": "Xarlasar",
+  "dependencies": {}
+}
