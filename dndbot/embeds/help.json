@@ -1,0 +1,31 @@
+{
+  "color": 65420,
+  "footer": {
+    "text": ".help"
+  },
+  "thumbnail": {
+    "url": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "fields": [
+    {
+      "name": ".ping",
+      "value": "Pings the bot.",
+      "inline": true
+    },
+    {
+      "name": ".help [page]",
+      "value": "Brings up this menu. Optionally, you can add a page number to jump to a specific page in the help menu.",
+      "inline": true
+    },
+    {
+      "name": ".sample",
+      "value": "placeholder.",
+      "inline": true
+    },
+    {
+      "name": ".sample",
+      "value": "placeholder.",
+      "inline": true
+    }
+  ]
+}

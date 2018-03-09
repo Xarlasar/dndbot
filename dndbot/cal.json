@@ -1,0 +1,21 @@
+{
+  "days":
+  {
+    "monday":    "0",
+    "tuesday":   "1",
+    "wednesday": "2",
+    "thursday":  "3",
+    "friday":    "4",
+    "saturday":  "5",
+    "sunday":    "6"
+  },
+  "properties":
+  {
+    "name":       "0",
+    "dm":         "1",
+    "start":      "2",
+    "end":        "3",
+    "host":       "4",
+    "attendance": "5"
+  },
+}
