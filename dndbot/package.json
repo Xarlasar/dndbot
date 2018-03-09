@@ -1,8 +1,14 @@
 {
-  "name": "dnd-bot",
+  "name": "dndbot",
   "version": "1.0.0",
-  "description": "Bot for the DND Server",
-  "main": "bot.js",
+  "description": "A bot for the D&D Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "author": "Xarlasar",
-  "dependencies": {}
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
 }
